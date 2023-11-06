@@ -1,0 +1,23 @@
+# Python-specific
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# User-specific settings and sensitive information
+.env
+
+# Ignore any generated files, data, or assets
+generated_data/
