@@ -15,7 +15,7 @@ import requests  # Import the requests library
 # Define the RapidAPI endpoint and headers with your API key
 rapidapi_endpoint = "https://gpt-text-generation.p.rapidapi.com/completions"
 headers = {
-    "X-RapidAPI-Key": "32000f72a0msh46c979edabd729ap18d71djsne2068c9897d0",
+    "X-RapidAPI-Key": "ENTER_API_KEY",
 }
 
 # Sidebar contents
